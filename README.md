@@ -1,4 +1,5 @@
 # GNR 638 Project
+![GNR_PROJECT](https://user-images.githubusercontent.com/73030180/143539235-0adb281c-c828-4da5-b929-4fd554c64994.png)
 
 This project was made in a team of 6 members:
 - Tamoghno Kandar
